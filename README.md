@@ -12,13 +12,6 @@ learning   : production ML pipelines, cloud deployment (AWS / GCP)
 looking for: software engineering internship, open-source AI/ML projects, hackathon teams
 ```
 
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [Ishaan-Does-DSA](https://github.com/IshaanShanavas/Ishaan-Does-DSA) | LeetCode / NeetCode solutions in Python |
-| [QUANT-FINANCE-SPRINTS](https://github.com/IshaanShanavas/QUANT-FINANCE-SPRINTS) | Quant finance experiments in short sprints |
-| [EcoScan-Dublin](https://github.com/IshaanShanavas/EcoScan-Dublin) | Dublin-focused web project (HTML) |
 
 ## Stack
 
