@@ -26,7 +26,7 @@ $ cat achievements.txt
 
 ## Activity
 
-![GitHub stats](./output/stats.svg) ![Top languages](./output/top-langs.svg)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=IshaanShanavas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&hide_rank=false&card_width=400) ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=IshaanShanavas&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=300)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaanShanavas/IshaanShanavas/output/github-snake-dark.svg">
